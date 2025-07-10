@@ -1,0 +1,16 @@
+        Navodita Internship Task
+1. Vulnerability Assessment and Penetration Testing (VAPT): Conduct vulnerability
+assessments and penetration tests on a network or web application to identify and
+remediate security vulnerabilities.
+
+2. Security Awareness Training Program: Develop a security awareness training program for
+employees, covering topics such as phishing, social engineering, and safe online practices.
+
+3. Incident Response Plan Development: Create an incident response plan and conduct
+tabletop exercises to simulate and prepare for cybersecurity incidents.
+
+4. Network Security Monitoring (NSM): Set up a network security monitoring system to detect
+and respond to suspicious network traffic and intrusions.
+
+5. Secure Code Review: Perform secure code reviews on software applications to identify.
+and mitigate potential security flaws.
